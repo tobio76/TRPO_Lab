@@ -7,9 +7,9 @@ C:\Users\Ignat\Desktop\TRPO_Lab_New\src\CalculatorApp\obj\Debug\net9.0\Calculato
 C:\Users\Ignat\Desktop\TRPO_Lab_New\src\CalculatorApp\obj\Debug\net9.0\CalculatorApp.AssemblyInfoInputs.cache
 C:\Users\Ignat\Desktop\TRPO_Lab_New\src\CalculatorApp\obj\Debug\net9.0\CalculatorApp.AssemblyInfo.cs
 C:\Users\Ignat\Desktop\TRPO_Lab_New\src\CalculatorApp\obj\Debug\net9.0\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Ignat\Desktop\TRPO_Lab_New\src\CalculatorApp\obj\Debug\net9.0\CalculatorApp.sourcelink.json
 C:\Users\Ignat\Desktop\TRPO_Lab_New\src\CalculatorApp\obj\Debug\net9.0\CalculatorApp.dll
 C:\Users\Ignat\Desktop\TRPO_Lab_New\src\CalculatorApp\obj\Debug\net9.0\refint\CalculatorApp.dll
 C:\Users\Ignat\Desktop\TRPO_Lab_New\src\CalculatorApp\obj\Debug\net9.0\CalculatorApp.pdb
 C:\Users\Ignat\Desktop\TRPO_Lab_New\src\CalculatorApp\obj\Debug\net9.0\CalculatorApp.genruntimeconfig.cache
 C:\Users\Ignat\Desktop\TRPO_Lab_New\src\CalculatorApp\obj\Debug\net9.0\ref\CalculatorApp.dll
-C:\Users\Ignat\Desktop\TRPO_Lab_New\src\CalculatorApp\obj\Debug\net9.0\CalculatorApp.sourcelink.json
