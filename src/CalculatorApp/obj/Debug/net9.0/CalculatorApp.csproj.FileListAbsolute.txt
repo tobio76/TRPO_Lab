@@ -1,0 +1,14 @@
+C:\Users\Ignat\Desktop\TRPO_Lab_New\src\CalculatorApp\bin\Debug\net9.0\CalculatorApp.exe
+C:\Users\Ignat\Desktop\TRPO_Lab_New\src\CalculatorApp\bin\Debug\net9.0\CalculatorApp.deps.json
+C:\Users\Ignat\Desktop\TRPO_Lab_New\src\CalculatorApp\bin\Debug\net9.0\CalculatorApp.runtimeconfig.json
+C:\Users\Ignat\Desktop\TRPO_Lab_New\src\CalculatorApp\bin\Debug\net9.0\CalculatorApp.dll
+C:\Users\Ignat\Desktop\TRPO_Lab_New\src\CalculatorApp\bin\Debug\net9.0\CalculatorApp.pdb
+C:\Users\Ignat\Desktop\TRPO_Lab_New\src\CalculatorApp\obj\Debug\net9.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ignat\Desktop\TRPO_Lab_New\src\CalculatorApp\obj\Debug\net9.0\CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\Ignat\Desktop\TRPO_Lab_New\src\CalculatorApp\obj\Debug\net9.0\CalculatorApp.AssemblyInfo.cs
+C:\Users\Ignat\Desktop\TRPO_Lab_New\src\CalculatorApp\obj\Debug\net9.0\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Ignat\Desktop\TRPO_Lab_New\src\CalculatorApp\obj\Debug\net9.0\CalculatorApp.dll
+C:\Users\Ignat\Desktop\TRPO_Lab_New\src\CalculatorApp\obj\Debug\net9.0\refint\CalculatorApp.dll
+C:\Users\Ignat\Desktop\TRPO_Lab_New\src\CalculatorApp\obj\Debug\net9.0\CalculatorApp.pdb
+C:\Users\Ignat\Desktop\TRPO_Lab_New\src\CalculatorApp\obj\Debug\net9.0\CalculatorApp.genruntimeconfig.cache
+C:\Users\Ignat\Desktop\TRPO_Lab_New\src\CalculatorApp\obj\Debug\net9.0\ref\CalculatorApp.dll
